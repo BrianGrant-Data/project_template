@@ -1,4 +1,4 @@
-# blank_project_repository
+# Blank Project Template
 
 A blank project repository for folder structure and naming guidance.  The `confidentiality_agreement.md` can be used if you are working with a client.  Please make sure to create a private repo for client work.
 
