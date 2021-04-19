@@ -1,7 +1,7 @@
 # Naming your Repo
 
 Use this template repo to create your own repository in this organization.    
-Please name your repo `[semester][yeartwodigits]_[lastname]_[firstname]`.  For example S21_hathaway_j
+Please name your repo `[semester][yeartwodigits]_[lastname]_[firstname]`.  For example s21_hathaway_j
 
 - Spring = S
 - Fall = F
